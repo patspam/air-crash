@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/2.0beta">
+	<id>Crash</id>
+	<name>Crash</name>
+	<version>1</version>
+	<filename>Crash</filename>
+	<initialWindow>
+		<title>Crash</title>
+		<content>index.html</content>
+		<visible>true</visible>
+		<width>640</width>
+		<height>480</height>
+  </initialWindow>
+</application>
